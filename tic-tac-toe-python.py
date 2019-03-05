@@ -1,4 +1,4 @@
-
+#functions
 def check_win(board,marker):
     if((board[0]==board[1]==board[2]==marker) or
        (board[3]==board[4]==board[5]==marker) or
